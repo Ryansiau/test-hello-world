@@ -1,0 +1,10 @@
+# ignore all files without extension
+*
+!*.*
+!*/
+
+# un-ignore LICENSE file
+!LICENSE
+
+# ignore executable file
+*.exe
