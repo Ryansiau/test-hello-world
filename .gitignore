@@ -8,3 +8,6 @@
 
 # ignore executable file
 *.exe
+
+# ignore compiled file
+*.class
